@@ -1,0 +1,13 @@
+C:\Repos\MaxSubSeq\MaxSubSeq\bin\Release\netcoreapp3.1\MaxSubSeq.exe
+C:\Repos\MaxSubSeq\MaxSubSeq\bin\Release\netcoreapp3.1\MaxSubSeq.deps.json
+C:\Repos\MaxSubSeq\MaxSubSeq\bin\Release\netcoreapp3.1\MaxSubSeq.runtimeconfig.json
+C:\Repos\MaxSubSeq\MaxSubSeq\bin\Release\netcoreapp3.1\MaxSubSeq.runtimeconfig.dev.json
+C:\Repos\MaxSubSeq\MaxSubSeq\bin\Release\netcoreapp3.1\MaxSubSeq.dll
+C:\Repos\MaxSubSeq\MaxSubSeq\bin\Release\netcoreapp3.1\MaxSubSeq.pdb
+C:\Repos\MaxSubSeq\MaxSubSeq\obj\Release\netcoreapp3.1\MaxSubSeq.csprojAssemblyReference.cache
+C:\Repos\MaxSubSeq\MaxSubSeq\obj\Release\netcoreapp3.1\MaxSubSeq.AssemblyInfoInputs.cache
+C:\Repos\MaxSubSeq\MaxSubSeq\obj\Release\netcoreapp3.1\MaxSubSeq.AssemblyInfo.cs
+C:\Repos\MaxSubSeq\MaxSubSeq\obj\Release\netcoreapp3.1\MaxSubSeq.csproj.CoreCompileInputs.cache
+C:\Repos\MaxSubSeq\MaxSubSeq\obj\Release\netcoreapp3.1\MaxSubSeq.dll
+C:\Repos\MaxSubSeq\MaxSubSeq\obj\Release\netcoreapp3.1\MaxSubSeq.pdb
+C:\Repos\MaxSubSeq\MaxSubSeq\obj\Release\netcoreapp3.1\MaxSubSeq.genruntimeconfig.cache
